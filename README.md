@@ -69,20 +69,20 @@ using the base plotting system.
 ### Plot 1
 
 
-![Plot1](Plot1.png) 
+![Plot1](plot1.png) 
 
 
 ### Plot 2
 
-![Plot2](Plot2.png) 
+![Plot2](plot2.png) 
 
 
 ### Plot 3
 
-![Plot3](Plot3.png) 
+![Plot3](plot3.png) 
 
 
 ### Plot 4
 
-![PLot4](PLot4.png) 
+![PLot4](plot4.png) 
 
